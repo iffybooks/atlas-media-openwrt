@@ -7,14 +7,16 @@ The Iffy Books router challenge is complete! We have a working build of OpenWrt 
 This post will show you how to install Retry's build of OpenWrt on your Atlas Media AC1200 router (actually a rebranded Tenda FH1205 router). This project doesn't require any soldering, but you will need to disassemble the router's case and connect a couple wires to the board.
 
 If you're interested in soldering wires to the router's serial pinout to access the serial shell, check out our blog post 'Notes from Router Hack Day II.' That post will also get you started on decompressing the router's stock firmware:
-❏ https://iffybooks.net/router-hack-day-2
+
+• https://iffybooks.net/router-hack-day-2
 
 For background info and instructions on gaining telnet access using the router's stock firmware, check out Jim's progress report from March:
-❏ https://iffybooks.net/challenge-router-progress
+
+• https://iffybooks.net/challenge-router-progress
 
 For hardware specs and manuals, check out the event page for our first Router Hack Day event:
 
-❏ https://iffybooks.net/event/router-hack-day
+• https://iffybooks.net/event/router-hack-day
 
 <div style="page-break-after: always;"></div>
 
