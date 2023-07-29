@@ -1,10 +1,11 @@
 # Install OpenWrt on your Atlas Media Router
 
-*[This zine is still a draft. Last updated July 27, 2023.]*
+*Last updated July 29, 2023. This guide is available at the following URL:*
+https://github.com/iffybooks/atlas-media-openwrt
 
 The Iffy Books router challenge is complete! We have a working build of OpenWrt that you can install on the Atlas Media routers we've been hacking away at for the past few months! Retry and Jim are sharing the prize, which we'll award at [Router Hack Day III](https://iffybooks.net/event/router-hack-day-3/) on Saturday, July 29th. We should also thank Anthony, who helped with initial research and did a great job spreading the word about the project.
 
-This post will show you how to install Retry's build of OpenWrt on your Atlas Media AC1200 router (actually a rebranded Tenda FH1205 router). This project doesn't require any soldering, but you will need to disassemble the router's case and connect a couple wires to the board.
+This guide will show you how to install Retry's build of OpenWrt on your Atlas Media AC1200 router (actually a rebranded Tenda FH1205 router). This project doesn't require any soldering, but you will need to disassemble the router's case and connect a couple wires to the board.
 
 If you're interested in soldering wires to the router's serial pinout to access the serial shell, check out our blog post 'Notes from Router Hack Day II.' That post will also get you started on decompressing the router's stock firmware:
 
