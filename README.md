@@ -207,7 +207,7 @@ http://192.168.1.1
 
 <img title="" src="images/6de9ab2666529d68a3c30a699e372956c9434236.png" alt="Screenshot from 2023-07-13 13-35-25.png" width="644" data-align="center">
 
-❏ If your home router (or something else) is using the IP address 192.168.1.1, you'll need to change your router's LAN IP address. Change the IP address to 192.168.1.X, where X is a number <= 255, but not 1.
+❏ If your home router (or something else) is using the IP address 192.168.1.1, you'll need to change your router's LAN IP address. Change the IP address to 192.168.1.X, where X is an integer <= 255, but not 1.
 
 Details at the following URL: https://openwrt.org/docs/guide-user/network/openwrt_as_routerdevice
 
