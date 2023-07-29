@@ -77,7 +77,13 @@ Next you'll assign yourself a static IP address on the network. Here's why this 
 
 ***Instructions for Windows:***
 
-[Coming soon]
+❏ Open **Settings -> Network & Internet**. 
+
+❏ Click **Properties** for your LAN network.
+❏ Next to **IP assignment**, click **Edit**. Select **Manual**.
+❏ Switch **IPV4** to **on**. For the IP address, enter **192.168.1.X**, replacing X with a number from 0 to 255.
+
+❏ Click **Save**.
 
 <div style="page-break-after: always;"></div>
 
