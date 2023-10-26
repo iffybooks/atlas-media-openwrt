@@ -2,20 +2,13 @@
 #pandoc --pdf-engine=xelatex -V geometry:a5paper install-openwrt-on-atlas-media-router.md -o install-openwrt-on-atlas-media-router.pdf
 
 # Let PDF export finish
-sleep 0.5
-
-exiftool -all= *.pdf
-
-
-
+sleep 11
 
 pdfbook2 --paper=letterpaper --short-edge \
---outer-margin=30 --inner-margin=60 --top-margin=30 --bottom-margin=40 Atlas_Media_OpenWrt_Steps_Oct_2023.pdf
+--outer-margin=30 --inner-margin=20 --top-margin=40 --bottom-margin=40 README.pdf
 
 
-exiftool -all= *.pdf
 
 
-sleep 0.5
-rm *_original
+
 
